@@ -23,7 +23,7 @@
 # carpoolCommission (int)
 
 # BILLMASTER
-#billId (varchar): Primary Key
+# billId (varchar): Primary Key
 # rideId (varchar)
 # NoOfKm (int)
 # totalBill (int)
